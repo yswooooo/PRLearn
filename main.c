@@ -26,7 +26,7 @@ int main(void)
     RcInit();
     GimbalInit();
     //创建一个PR尝试 
-    //创建二个PR尝试 //创建三个PR尝试//
+    //创建二个PR尝试 //创建三个PR尝试/*
     while (1)
     {
         RcTask();
