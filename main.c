@@ -25,7 +25,7 @@ int main(void)
     MessageCenterInit(&MessageCenterInstance);
     RcInit();
     GimbalInit();
-
+    //创建一个PR尝试
     while (1)
     {
         RcTask();
